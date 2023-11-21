@@ -1,4 +1,4 @@
-# rock-paper-scissors-gesture-based-application
+# Rock-Paper-Scissors-Gesture-Based-Application
 
 SYSTEM REQUIREMENTS
 
